@@ -1,0 +1,9 @@
+{
+  "name": "Healthy Timer",
+  "description": "Reminder to take a break, drink water and check your posture",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "./src/services/background.js"
+  }
+}

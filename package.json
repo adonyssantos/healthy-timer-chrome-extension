@@ -1,0 +1,24 @@
+{
+  "name": "healthy-timer-chrome-extension",
+  "version": "1.0.0",
+  "description": "Reminder to take a break, drink water and check your posture",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adonyssantos/healthy-timer-chrome-extension.git"
+  },
+  "keywords": [
+    "chrome-extension",
+    "nodejs",
+    "timer"
+  ],
+  "author": "Adonys Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adonyssantos/healthy-timer-chrome-extension/issues"
+  },
+  "homepage": "https://github.com/adonyssantos/healthy-timer-chrome-extension#readme"
+}
